@@ -1,6 +1,6 @@
 # Settings for github-cool-readme v1.4.2: https://github.com/pedrocatalao/github-cool-readme/tree/v1.4.2#settings
 user: bombsdontbite
-cards: [summary, languages, contributions, weekly]
+cards: [summary, languages, weekly]   # add contributions once there are PRs to other projects
 style: classic
 include:
   private: true
