@@ -1,0 +1,13 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: bombsdontbite
+show: [summary, languages, contributions, weekly, streaks]
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  background: none
+cards:
+  summary:
+    ring: github
