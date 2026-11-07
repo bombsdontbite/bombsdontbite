@@ -20,10 +20,4 @@
   <img src="https://raw.githubusercontent.com/bombsdontbite/bombsdontbite/cards/weekly-light.svg" width="400" alt="Weekly rhythm">
 </picture>
 </p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bombsdontbite/bombsdontbite/cards/streaks-dark.svg">
-  <img src="https://raw.githubusercontent.com/bombsdontbite/bombsdontbite/cards/streaks-light.svg" width="400" alt="Streaks">
-</picture>
-</p>
 <!-- cool-readme:end -->

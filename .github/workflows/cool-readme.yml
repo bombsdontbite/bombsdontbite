@@ -15,7 +15,7 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
-      - uses: pedrocatalao/github-cool-readme@1e6ec4b015af8c9ed5be1a2f4519d927415dee2f # v1
+      - uses: pedrocatalao/github-cool-readme@1e6ec4b015af8c9ed5be1a2f4519d927415dee2f # v1.4.2
         with:
           token: ${{ secrets.CARDS_TOKEN }}
           output: ${{ runner.temp }}/cards

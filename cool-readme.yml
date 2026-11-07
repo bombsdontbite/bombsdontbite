@@ -1,13 +1,9 @@
-# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+# Settings for github-cool-readme v1.4.2: https://github.com/pedrocatalao/github-cool-readme/tree/v1.4.2#settings
 user: bombsdontbite
-show: [summary, languages, contributions, weekly, streaks]
-count:
+cards: [summary, languages, contributions, weekly]
+style: classic
+include:
   private: true
   orgs: true
-look:
-  style: classic
-  color: github
-  background: none
-cards:
-  summary:
-    ring: github
+summary:
+  ring: github
